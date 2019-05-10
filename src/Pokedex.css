@@ -1,0 +1,10 @@
+div .Pokedex {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div .pokeContainer {
+  width: 25%;
+}

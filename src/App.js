@@ -1,12 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import pokemon from './pokemon';
-import Pokedex from './Pokedex';
+import Pokegame from './Pokegame';
 
 function App() {
   return (
-    <Pokedex pokeList={pokemon}/>
+    <Pokegame />
   );
 }
 
