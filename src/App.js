@@ -9,3 +9,7 @@ function App() {
 }
 
 export default App;
+
+//TODO Add headers to pokedexs
+//TODO Show scores
+//TODO Animate cards in
